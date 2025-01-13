@@ -119,7 +119,7 @@
   }
 }
 #pkdv .pkAbout {
-  font-size: 1.2em;
+  font: 1.2em "微軟正黑體", "新細明體", futuramedium, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 #pkdv .pkAbout-mainBN {
   display: flex;
